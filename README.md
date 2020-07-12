@@ -2,7 +2,7 @@
 
 ## Problem Statement
 
-Read sample log file present with the repository and find those lines that contain the word **sample heroku/router**. Read the value of **request_id=** from the line and print it also read the value of **fwd=** and if it is **MASKED** print **[M]** beside the value of **request_id=**.
+Read sample log file present with the repository i.e **web-logs-raw** and find those lines that contain the word **sample heroku/router**. Read the value of **request_id=** from the line and print it also read the value of **fwd=** and if it is **MASKED** print **[M]** beside the value of **request_id=**.
 
 ## Smple Output
 
